@@ -1,0 +1,1 @@
+# Code related to the [FastAI SolveIt Course](https://solveit.fast.ai/)
